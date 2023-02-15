@@ -38,7 +38,7 @@
             
             #redesocial img {
                 width: 50px;
-                margin: 10px;
+                margin: 1px;
                 border-radius: 50px;
                 box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.423);
                 /*border-box faz com que a borda faz parte da caixa*/
@@ -55,7 +55,6 @@
                 border: 2px solid rgba(255, 255, 255, 0.414);
                 transform: translate(-7px, -7px);
                 box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.394);
-                ;
                 transition: 1s;
             }
             
